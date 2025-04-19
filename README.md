@@ -45,12 +45,11 @@ cd memoria-letal
 
 ```shell
 cl /EHsc /std:c++14 /Fe:MemoriaLetal.exe MemoriaLetal.cpp mem.cpp Utils.cpp /link Psapi.lib Kernel32.lib
-       
+```       
 
 
 
 
-```
     - **Using GCC/MinGW**:
       
 
