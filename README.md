@@ -50,7 +50,7 @@ cl /EHsc /std:c++14 /Fe:MemoriaLetal.exe MemoriaLetal.cpp mem.cpp Utils.cpp /lin
 
 
 
-    - **Using GCC/MinGW**:
+  - **Using GCC/MinGW**:
       
 
 
