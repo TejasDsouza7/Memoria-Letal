@@ -37,7 +37,8 @@ cd memoria-letal
 
 ```
 2. Compile the project:
-    - **Using MSVC**:
+
+- **Using MSVC**:
       
 
 
@@ -50,7 +51,7 @@ cl /EHsc /std:c++14 /Fe:MemoriaLetal.exe MemoriaLetal.cpp mem.cpp Utils.cpp /lin
 
 
 
-  - **Using GCC/MinGW**:
+- **Using GCC/MinGW**:
       
 
 
